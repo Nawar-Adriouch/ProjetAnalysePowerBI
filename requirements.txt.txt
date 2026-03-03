@@ -1,0 +1,5 @@
+3. Ouvrir le fichier Power BI dans Power BI Desktop pour visualiser les rapports.
+
+## Auteur
+- Nom : Nawar Adriouch
+- Email : nawaradriouch5@gmail.com
